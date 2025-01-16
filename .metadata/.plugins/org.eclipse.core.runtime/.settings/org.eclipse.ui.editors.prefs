@@ -1,0 +1,3 @@
+@echo=off
+echo=wordwrap.enabled\=true
+eclipse.preferences.version=1

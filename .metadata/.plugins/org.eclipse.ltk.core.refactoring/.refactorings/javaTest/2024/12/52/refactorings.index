@@ -1,0 +1,8 @@
+1734912026608	Encapsulate field 'weight, ...'
+1734912061796	Encapsulate field 'price, ...'
+1734912072478	Encapsulate field 'creationTime, ...'
+1734912083059	Encapsulate field 'expiration, ...'
+1734917516427	Encapsulate field 'data, ...'
+1734921350318	Encapsulate field 'type, ...'
+1734922010253	Encapsulate field 'data, ...'
+1735200663411	Extract method 'count'

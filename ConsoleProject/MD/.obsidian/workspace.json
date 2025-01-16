@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ebcbf3e46470500b",
+    "type": "split",
+    "children": [
+      {
+        "id": "173c61e18e3ac505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec71c3b2adfa047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classMarkdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "classMarkdown"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db81e657c80daaef",
+    "type": "split",
+    "children": [
+      {
+        "id": "07ac693918a70a17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a0c7a33cfa9b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c1181dfb7954d0f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "f7265f6d1b3b0ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac2bc694b9c0e16b",
+    "type": "split",
+    "children": [
+      {
+        "id": "903346b7c5c9bdfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c52df0015b78d58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "classMarkdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "classMarkdown의 백링크"
+            }
+          },
+          {
+            "id": "76aa739f5c6c503e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "classMarkdown.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "classMarkdown의 나가는 링크"
+            }
+          },
+          {
+            "id": "94c7c8fa65f66f31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a38ef08accec45a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "classMarkdown.md"
+              },
+              "icon": "lucide-list",
+              "title": "classMarkdown 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "32a0c7a33cfa9b21",
+  "lastOpenFiles": [
+    "프로젝트데이터.md",
+    "프로젝트.md",
+    "데이터구조.md",
+    "요구사항.md",
+    "classMarkdown.md",
+    "마크다운.md",
+    "java.png",
+    "java.png.crdownload",
+    "무제 폴더"
+  ]
+}
